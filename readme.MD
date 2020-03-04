@@ -1,6 +1,6 @@
 # HOW TO INSTALL
 
-##### 1. Check out the repository
+##### 1. Clone the repository
 
 ```bash
 git clone https://github.com/feedlyy/WIR-BE.git
@@ -12,15 +12,11 @@ git clone https://github.com/feedlyy/WIR-BE.git
 ##### 2. Access project folder that you installed this repository
 ##### 3. Build your project
 ```bash
-C:\Users\Blank\go\src\Algorithm>go build
+C:\Users\Blank\go\src\WIR-BE>go build
 ```
-##### 4. Type your project folder
-```bash
-C:\Users\Blank\go\src\Algorithm>Algorithm
-```
-##### 5. Type input for test number 1 and number 2
+##### 4. Type your project folder and input the test case
 Example : 
 ```bash
-C:\Users\Blank\go\src\Algorithm>Algorithm
+C:\Users\Blank\go\src\WIR-BE>WIR-BE
 8 1345679
 ```
