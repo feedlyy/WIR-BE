@@ -20,3 +20,8 @@ Example :
 C:\Users\Blank\go\src\WIR-BE>WIR-BE
 8 1345679
 ```
+##### 5. If this project installed on linux :
+```bash
+1. access project folder from terminal
+2. type go run main.go
+3. input the test case, ex: 8 1345679
